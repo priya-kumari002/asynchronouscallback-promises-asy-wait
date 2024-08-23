@@ -1,0 +1,29 @@
+body{
+    padding: 20px;
+    text-align: center;
+    background-color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+#priyacon{
+    margin: 50px;
+}
+ button{          /* for button */
+    cursor: pointer;
+    border: 2px solid brown;
+    border-radius: 10px;
+    color: hsl(143, 100%, 50%);
+    font-size: 11px;
+    
+}
+#data{ /*for data */
+    background-color: cyan;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+
+}
+button:hover{
+    background-color: blueviolet;
+}

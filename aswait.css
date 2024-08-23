@@ -1,0 +1,36 @@
+/* css file */
+body{
+        padding: 20px;
+        text-align: center;
+        background-color: blueviolet;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: black;
+    }
+    #priyacon{ /*container for data displaying */
+        margin: 50px;
+    }
+     button{              /* button */
+        cursor: pointer;
+        border: 2px solid brown;
+        border-radius: 10px;
+        color: hsl(143, 100%, 50%);
+        font-size: 11px;
+        padding: 12px 25px;
+        font-size: 20px;
+        background-color: coral;
+        
+    }
+    #data{
+        /*for data */
+        background-color: #108d83;
+        border: 2px solid black;
+        border-radius: 5px;
+        padding: 10px;
+        margin-top: 20px;
+        background-color: hsl(314, 76%, 53%);
+        white-space: pre-wrap;
+    
+    }
+    button:hover{
+        background-color: hsl(113, 76%, 53%);
+    }

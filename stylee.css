@@ -1,0 +1,35 @@
+body{
+    
+    background-color: purple;
+    height: 100vh;
+    justify-self: center;
+    align-items: center;
+    display: flex;
+    margin: 0;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.priya{
+    text-align: center;
+    margin: 500px;
+    height:500px;
+    width: 400px;
+    
+
+}
+#priyamsg{
+    background-color: blueviolet;
+    padding: 10px;
+    margin-top: 20px;
+    border:1px solid purple;
+    color:black;
+
+}
+button{
+    cursor: pointer;
+    font-size: 16px;
+
+
+    
+    padding: 10px 20px;
+}
